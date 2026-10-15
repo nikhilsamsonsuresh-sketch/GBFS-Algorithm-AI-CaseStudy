@@ -1,0 +1,6 @@
+{
+  "name": "8-Puzzle Solver - Greedy Best-First Search",
+  "description": "Interactive educational solver and step-by-step visualization of the 8-Puzzle Problem using Greedy Best-First Search (GBFS) and Manhattan Distance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
